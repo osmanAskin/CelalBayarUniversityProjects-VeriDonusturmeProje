@@ -1,0 +1,14 @@
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\bin\Debug\net7.0\BinaryDönüstürmeAlgoritması.exe
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\bin\Debug\net7.0\BinaryDönüstürmeAlgoritması.deps.json
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\bin\Debug\net7.0\BinaryDönüstürmeAlgoritması.runtimeconfig.json
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\bin\Debug\net7.0\BinaryDönüstürmeAlgoritması.dll
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\bin\Debug\net7.0\BinaryDönüstürmeAlgoritması.pdb
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\obj\Debug\net7.0\BinaryDönüstürmeAlgoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\obj\Debug\net7.0\BinaryDönüstürmeAlgoritması.AssemblyInfoInputs.cache
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\obj\Debug\net7.0\BinaryDönüstürmeAlgoritması.AssemblyInfo.cs
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\obj\Debug\net7.0\BinaryDönüstürmeAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\obj\Debug\net7.0\BinaryDönüstürmeAlgoritması.dll
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\obj\Debug\net7.0\refint\BinaryDönüstürmeAlgoritması.dll
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\obj\Debug\net7.0\BinaryDönüstürmeAlgoritması.pdb
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\obj\Debug\net7.0\BinaryDönüstürmeAlgoritması.genruntimeconfig.cache
+C:\Users\osman\source\repos\BinaryDönüstürmeAlgoritması\obj\Debug\net7.0\ref\BinaryDönüstürmeAlgoritması.dll
